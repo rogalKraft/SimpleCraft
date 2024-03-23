@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#S#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:glowstone_dust"
+        },
+        "S": {
+            "item": "minecraft:structure_void"
+        }
+    },
+    "result": {
+        "item": "minecraft:light",
+        "count": 1
+    }
+}
