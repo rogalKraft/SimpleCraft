@@ -25,3 +25,5 @@ This is what it looks like in inventory
 The condition for showing an Invisible Frame in the world is as simple as possible, you need to drink a bottle of any liquid except (honey), and within a minute, invisible frames will be highlighted within a radius of 15 blocks from you, this is how it will look approximately
 
 ![frame lighting](https://cdn.modrinth.com/data/IIF1a1Sy/images/88678266563deb9156fecea8f24751afcf175a76.png)
+
+ 
