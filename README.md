@@ -27,3 +27,5 @@ The condition for showing an Invisible Frame in the world is as simple as possib
 ![frame lighting](https://cdn.modrinth.com/data/IIF1a1Sy/images/88678266563deb9156fecea8f24751afcf175a76.png)
 
  
+
+OK
